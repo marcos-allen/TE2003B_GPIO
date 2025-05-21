@@ -166,3 +166,5 @@ def main():
 
 while True:
     main()
+
+# video del funcioanmiento: https://youtu.be/9UZ14tmA-ic?si=G4li42H48jNURyrw
